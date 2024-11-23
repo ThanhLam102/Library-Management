@@ -1,0 +1,5 @@
+1001, Nguyen Van A, BTEC D05 K12, Ha Noi
+1002, Nguyen Van B, BTEC D05 K12, Hai Phong
+1003, Nguyen Van C, BTEC D05 K12, Hoa Binh
+1004, Nguyen Van D, BTEC D05 K12, Bac Ninh
+1005, Nguyen Van E, BTEC D05 K12, Quang Ninh

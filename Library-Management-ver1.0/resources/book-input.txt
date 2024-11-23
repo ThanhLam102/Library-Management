@@ -1,0 +1,5 @@
+2603, 60000 , The GodFather                             , Mario Puzo    , English
+2401, 150000, Forrest Gump                              , Winston Groom , English
+8902, 90000 , Dac nhan tam                              , Dale Carnegie , Vietnamese
+4704, 75000 , Tam vai do                                , Hong Niang Zi , Vietnamese
+1501, 200000, Ngoai tru ban the gioi khong la gi voi toi, Jiajiu Fengzhe, Vietnamese
